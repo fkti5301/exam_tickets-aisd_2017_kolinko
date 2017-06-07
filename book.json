@@ -1,3 +1,11 @@
 {
-    "plugins": ["katex"]
+    "plugins" : ["katex"],
+	
+	"pdf": {
+
+        "fontFamily" : "Times New Roman",
+        "fontSize": 12
+
+    }
+
 }
