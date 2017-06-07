@@ -1,11 +1,14 @@
 {
-    "plugins" : ["katex"],
-	
-	"pdf": {
+    // Title
+    "title" : "Ответы на экзаменационные вопросы [АИСД, 2017, Колинько]",
 
+    // Plugins
+    "plugins" : ["katex"],
+
+    // PDF config
+    "pdf": {
         "fontFamily" : "Times New Roman",
         "fontSize": 12
-
     }
 
 }
