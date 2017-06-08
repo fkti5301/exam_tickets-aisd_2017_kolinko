@@ -17,9 +17,10 @@
 2. Настроить SSH и подключить к своему аккаунту *(ссылки ниже)*
 
 3. Клонировать к себе данный репозиторий:
-```
-git clone git@github.com:fkti5301/exam_tickets-aisd_2017_kolinko.git
-```
+   ```
+   git clone git@github.com:fkti5301/exam_tickets-aisd_2017_kolinko.git
+   ```
+
 4. Создать/заполнить файл X.md со своим вопросом и кинуть его в папочку tickets. Если создаёте пустой файл и отправляете его в репозиторий, значит, вы заняли этот вопрос, и можете спокойной его заполнять, будучи уверенными, что никто его не возьмёт.
 
 5. Обновить SUMMARY.md, добавив туда ссылку на новый файл в виде строки:
@@ -28,21 +29,21 @@ git clone git@github.com:fkti5301/exam_tickets-aisd_2017_kolinko.git
    ```
 
 6. Стянуть изменения:
-```
-git pull
-```
+   ```
+   git pull
+   ```
 
 7. Закоммитить его:
-```
-git add tickets/X.md
-git commit -m "ticket X: [Название коммита. English only]"
-```
+   ```
+   git add tickets/X.md
+   git commit -m "ticket X: [Название коммита. English only]"
+   ```
    Примеры названий коммитов: "ticket 1: Create ticket", "ticket 14: Complete ticket", "ticket 40: Fix typo", "ticket 31: Add more info".
 
 8. И отправить в репозиторий:
-```
-git push
-```
+   ```
+   git push
+   ```
 
 Для тех, кто собирается юзать приложение. У гитбука есть ограничение на количество пользователей одного репозитория, поэтому, чтобы работать всем вместе, делаем следующее: GitBook Editor -> Open -> [Выбираем папку с репозиторием]
 
