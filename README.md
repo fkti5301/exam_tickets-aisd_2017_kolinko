@@ -35,7 +35,7 @@
 
 7. Закоммитить его:
    ```
-   git add tickets/X.md
+   git add -A .
    git commit -m "ticket X: [Название коммита. English only]"
    ```
    Примеры названий коммитов: "ticket 1: Create ticket", "ticket 14: Complete ticket", "ticket 40: Fix typo", "ticket 31: Add more info".
