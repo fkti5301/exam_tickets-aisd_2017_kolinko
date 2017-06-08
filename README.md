@@ -7,7 +7,7 @@
 
 [Онлайн версия](https://fkti5301.gitbooks.io/exam_tickets-aisd_2017_kolinko/content/)
 
----
+
 
 ## Правила:
 Чтобы начать заполнять ответы, требуется:
@@ -52,6 +52,9 @@ git push
 
 Пуш осуществляется нажатием кнопки Publish. На данный момент их редактор не поддерживает SSH, поэтому, если хотите пушить с помощью GUI, настраивайте через HTTPS.
 
+
+
+## Пример
 [Пример](https://fkti5301.gitbooks.io/exam_tickets-aisd_2017_kolinko/content/tickets/0.html) заполнения билета:
 ```
 # Вопрос 0: Тут пишем вопрос
@@ -59,30 +62,39 @@ git push
 Расписываем подробно. Источники - Интернет, метода, конспекты, другие файлы. Главное, чтобы было по теме и информативно.
 ```
 
----
+
 
 ## Полезные ссылки
 **Git:**
+
 [Клиент Git](https://git-scm.com/download/win)
 
 [Гайд по Git](https://githowto.com/create_a_project)
 
 [Маленькая книжка-мануал](https://git-scm.com/book/ru/v1)
 
+
 **Настройка SSH:**
+
 [Генерация SSH ключа](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 [Добавление ключа в аккаунт](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 
 [Проверка работоспособности](https://help.github.com/articles/testing-your-ssh-connection/)
 
+
 **Markdown:**
+
 [Кратко о синтаксисе](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
+
 **GitBook:**
+
 [Доки](https://gitbookio.gitbooks.io/documentation/content/index.html)
 
+
 **KaTeX:**
+
 [Вики](https://github.com/Khan/KaTeX/wiki)
 
 [Использование](https://gitbookio.gitbooks.io/documentation/content/format/math.html)
