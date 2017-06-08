@@ -63,16 +63,6 @@
 # Вопрос 0: Тут пишем вопрос
 А тут - ответ. Изи.
 Расписываем подробно. Источники - Интернет, метода, конспекты, другие файлы. Главное, чтобы было по теме и информативно.
-
-```cpp
-int main() 
-	/* Тут можно вводить какой-нибудь код. Для подсветки синтаксиса используем ```cpp */
-
-	cout << "Hello, World!" << endl;
-
-```
-
-А вот так выглядят формулы: $$ x = e^{a+b} $$
 ```
 
 
@@ -99,6 +89,8 @@ int main()
 **Markdown:**
 
 [Кратко о синтаксисе](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+[Понятно о синтаксисе](http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html)
 
 
 **GitBook:**
