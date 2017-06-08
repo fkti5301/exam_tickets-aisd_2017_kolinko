@@ -89,6 +89,7 @@
 **Markdown:**
 
 [Кратко о синтаксисе](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
 [Понятно о синтаксисе](http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html)
 
 
