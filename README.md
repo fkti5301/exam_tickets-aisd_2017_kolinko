@@ -86,37 +86,37 @@
 ## Полезные ссылки
 **Git:**
 
-[Клиент Git](https://git-scm.com/download/win)
+* [Клиент Git](https://git-scm.com/download/win)
 
-[Гайд по Git](https://githowto.com/create_a_project)
+* [Гайд по Git](https://githowto.com/create_a_project)
 
-[Маленькая книжка-мануал](https://git-scm.com/book/ru/v1)
+* [Маленькая книжка-мануал](https://git-scm.com/book/ru/v1)
 
 
 **Настройка SSH:**
 
-[Генерация SSH ключа](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+* [Генерация SSH ключа](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
-[Добавление ключа в аккаунт](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+* [Добавление ключа в аккаунт](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 
-[Проверка работоспособности](https://help.github.com/articles/testing-your-ssh-connection/)
+* [Проверка работоспособности](https://help.github.com/articles/testing-your-ssh-connection/)
 
 
 **Markdown:**
 
-[Кратко о синтаксисе](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Кратко о синтаксисе](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-[Понятно о синтаксисе](http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html)
+* [Понятно о синтаксисе](http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html)
 
 
 **GitBook:**
 
-[Доки](https://gitbookio.gitbooks.io/documentation/content/index.html)
+* [Доки](https://gitbookio.gitbooks.io/documentation/content/index.html)
 
 
 **KaTeX:**
 
-[Вики](https://github.com/Khan/KaTeX/wiki)
+* [Вики](https://github.com/Khan/KaTeX/wiki)
 
-[Использование](https://gitbookio.gitbooks.io/documentation/content/format/math.html)
+* [Использование](https://gitbookio.gitbooks.io/documentation/content/format/math.html)
 
